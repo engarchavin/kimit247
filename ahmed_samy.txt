@@ -1,1 +1,3 @@
-DevOps branch by Ahmed Samy 🚀
+Resolved by Ahmed: keep both changes.
+Change from Branch A
+Different change from Branch B
