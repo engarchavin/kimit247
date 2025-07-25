@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 lala
 lala2
+=======
+test
+test2
+>>>>>>> bb1d50c1225b21a1876cfa9112c950486e1490d0
